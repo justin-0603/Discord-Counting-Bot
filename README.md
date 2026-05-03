@@ -5,3 +5,8 @@ This macro is made to do that automaticly.
 Requirements:
 - Knows How to make secreats
 - Have 2 discord accounts
+
+[Instructions]
+1. Type pip install -r requirements.txt on terminal
+2. Add your Account Tokens in .env
+3. type python main.py on terminal
